@@ -1,4 +1,4 @@
-# instacart-EDA
+# Instacart EDA
 Final Project for MSDS 430 Python for Data Science
 
 <b>Background:</b> Instacart, an online grocery store, publicly released a sample of over 3MM orders from more than 200K users in 2017. For each user, between 4 and 100 of their orders are provided. This was intended for a past competition to predict which products a consumer will purchase again.
