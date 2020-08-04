@@ -7,7 +7,7 @@ Final Project for MSDS 430 Python for Data Science
 https://www.kaggle.com/c/instacart-market-basket-analysis/data
 https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b
 
-<b>Project Objective:</b> This is an EDA analysis to answer:
+<b>Project Objective:</b> This is an exploratory data analysis to answer:
 
 <b>Primary goal:</b> How do the most frequent customers behave compared to less regular customers, e.g. what products do they buy, how often, etc.? This can help guide strategy and marketing tactics to get people to become more regular customers
 
