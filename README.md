@@ -9,7 +9,7 @@ https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b
 
 <b>Project Objective:</b> This is an exploratory data analysis to answer:
 
-<b>Primary goal:</b> How do the most frequent customers behave compared to less regular customers, e.g. what products do they buy, how often, etc.? This can help guide strategy and marketing tactics to get people to become more regular customers
+<b>Primary goal:</b> How do the most frequent customers behave compared to less regular customers, e.g. what products do they buy, how often, etc.? This can help guide strategy and marketing tactics to encourage more frequent purchases
 
 <b>Potential secondary questions:</b>
 - What is the customer distribution by order volume?
